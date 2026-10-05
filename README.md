@@ -2,7 +2,7 @@
 
 I'm from Costa Rica and I like building things fast and seeing if they work. Most of what I make mixes AI, web and crypto, and a lot of it started at a hackathon at 3am.
 
-I study AI Engineering at ULACIT. On the side I run [LaunchLab](https://www.launchlab.lat), a small software agency I co-founded.
+I study AI Engineering at ULACIT. On the side I run [LaunchLab](https://www.launchlab.lat), a small software agency I founded.
 
 ## What I've been building
 
