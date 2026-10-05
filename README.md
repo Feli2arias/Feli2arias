@@ -25,4 +25,4 @@ I use Claude Code a lot, so I started writing my own tools for it:
 - 🪙 Into crypto and DeFi since 2021.
 - 🌎 I speak Spanish, English and German.
 
-Want to talk? **felipe@launchlab.lat**
+Want to talk? **feli24arias06@gmail.com**
